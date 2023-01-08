@@ -3,7 +3,7 @@
 }
 
 body {
-  font-family: sans-serif;
+  font-family: verdana;
 }
 
 img {
@@ -28,7 +28,7 @@ header {
   background-color: #6b32e1;
   color: #fff;
   padding: 3px;
-  height: 26px;
+  height: 32px;
 }
 
 header > img {
@@ -65,9 +65,6 @@ textarea {
   background-color: #f6f6ef;
   width: 50%;
   margin: 24px auto;
-  padding-bottom: 25px;
-  padding-left: 20px;
-  padding-right: 20px;
 }
 
 .news-item {
@@ -84,4 +81,12 @@ textarea {
 
 a:hover {
   background-color: yellow;
+}
+.constent {
+  font-size: 14px;
+  padding: 25px;
+}
+
+.title {
+  font-size: 32px;
 }
